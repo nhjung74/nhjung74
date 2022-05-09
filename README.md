@@ -50,7 +50,7 @@
 
 📫 H/W
  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
- 
+ ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 <!--
 **nhjung74/nhjung74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
