@@ -1,6 +1,6 @@
 # Hi there 👋
 🔭 I’m currently working on ...
-🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...
 
 # 👯 I’m interested in ...
 
@@ -48,6 +48,9 @@
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
+📫 H/W
+ ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+ 
 <!--
 **nhjung74/nhjung74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
