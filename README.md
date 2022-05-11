@@ -1,6 +1,10 @@
 #   nhjung74 🐯
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhjung74%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhjung74)](https://github.com/nhjung74/github-readme-stats)
+[![nhjung74's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhjung74)](https://github.com/nhjung74/github-readme-stats)
+
+
 # Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -85,5 +89,3 @@ Here are some ideas to get you started:
 -->
 
 
-[![nhjung74's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhjung74)](https://github.com/nhjung74/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhjung74)](https://github.com/nhjung74/github-readme-stats)
