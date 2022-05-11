@@ -80,3 +80,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![nhjung74's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhjung74)](https://github.com/nhjung74/github-readme-stats)
