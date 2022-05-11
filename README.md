@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhjung74)](https://github.com/nhjung74/github-readme-stats)
 [![nhjung74's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhjung74)](https://github.com/nhjung74/github-readme-stats)
 
-<div align="center">
+ ---
  
 # Hi there 👋
 - 🔭 I’m currently working on ...
