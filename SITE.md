@@ -1,7 +1,6 @@
 # 👯 I’m interested in ...
 
 📋 Languages
-
 - JavaScript [https://ko.javascript.info/]
 
 
