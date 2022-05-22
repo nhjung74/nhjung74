@@ -6,8 +6,7 @@
 
 
 📚 Frameworks, Platforms and Libraries
-
-
+- Bitnami WAMP [https://bitnami.com/stack/wamp]
 
 💻 IDEs/Editors
 - Latex [https://ko.overleaf.com/]
@@ -28,4 +27,4 @@
 
 
 📫 H/W
-- arduino  [https://www.arduino.cc/]
+- Arduino  [https://www.arduino.cc/]
