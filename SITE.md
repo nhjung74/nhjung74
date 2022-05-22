@@ -9,7 +9,7 @@
 
 
 💻 IDEs/Editors
-
+- Latex [https://ko.overleaf.com/]
 
 
 🍗 ML/DL
