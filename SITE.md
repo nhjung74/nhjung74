@@ -2,7 +2,7 @@
 
 📋 Languages
 
-[JavaScript] [https://ko.javascript.info/]
+- JavaScript [https://ko.javascript.info/]
 
 
 
