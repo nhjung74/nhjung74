@@ -2,6 +2,7 @@
 
 📋 Languages
 - JavaScript [https://ko.javascript.info/]
+- PyScript [https://pyscript.net/] [https://github.com/pyscript/pyscript]
 
 
 
