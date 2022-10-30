@@ -1,8 +1,7 @@
 # 👯 I’m Study in ...
 
 💻 Bussiness Administration
-   - 
-
+   - .... 
 
 
 📋 Language
@@ -12,4 +11,4 @@
 
 
 📚 Computer Science
-  -
+  - ...
