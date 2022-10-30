@@ -8,6 +8,7 @@
 
 ## 👯 I’m interested in ... 
 
+- ✨ [Study](https://github.com/nhjung74/nhjung74/blob/main/STUDY.md)
 - 💻 [Skills](https://github.com/nhjung74/nhjung74/blob/main/SKILL.md)
 - 🍗 [Site](https://github.com/nhjung74/nhjung74/blob/main/SITE.md)
 
