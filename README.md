@@ -1,6 +1,7 @@
 ## Jung Nak Hyun
-### About Me: [https://nhjung74.github.io/](https://nhjung74.github.io/)
-              [https://www.linkedin.com/in/nhjung74/](https://www.linkedin.com/in/nhjung74/)
+### About Me: 
+- [https://nhjung74.github.io/](https://nhjung74.github.io/)
+- [https://www.linkedin.com/in/nhjung74/](https://www.linkedin.com/in/nhjung74/)
 
 ## Hi there 👋
 
