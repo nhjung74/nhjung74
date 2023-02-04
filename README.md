@@ -3,6 +3,7 @@
 - [https://nhjung74.github.io/](https://nhjung74.github.io/)
 - [https://www.linkedin.com/in/nhjung74/](https://www.linkedin.com/in/nhjung74/)
 - [https://www.facebook.com/nugury](https://www.facebook.com/nugury)
+- [https://twitter.com/nhjung74](https://twitter.com/nhjung74)
 
 ## Hi there 👋
 
